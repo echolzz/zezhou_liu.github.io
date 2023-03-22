@@ -1,0 +1,16 @@
+body {
+/*    --background: #FDFDFD;
+    --foreground: #111111; */
+    --background: #ffffff;
+    --foreground: #000000;
+}
+
+/* define your dark colorscheme here */
+@media (prefers-color-scheme: dark) {
+    body {
+/*  --background: #222222;
+  --foreground: #eeeeee;*/
+  --background: #000000;
+  --foreground: #ffffff;
+    }
+}
